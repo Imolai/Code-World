@@ -1,1 +1,3 @@
-# go_explanations
+# Go explanations
+
+- [Go development](GO_DEVELOPMENT.md)
