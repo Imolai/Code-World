@@ -43,7 +43,8 @@ An import is needed from the standard library. Here is that we missed in the bas
 
 ```go
 n := 3.14
-fmt.Println(reflect.TypeOf(v).String())
+fmt.Println(reflect.TypeOf(n).String())
+// float64
 ```
 
 [Based on Stacoverflow comment of Grzegorz Luczywo](https://stackoverflow.com/questions/20170275/how-to-find-the-type-of-an-object-in-go/27160765#27160765).
