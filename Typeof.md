@@ -42,6 +42,8 @@ switch n.(type) {
 An import is needed from the standard library. Here is that we missed in the basic syntax. :)
 
 ```go
+import "reflect"  // outside in the import section
+
 n := 3.14
 fmt.Println(reflect.TypeOf(n).String())
 // float64
