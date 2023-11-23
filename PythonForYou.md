@@ -1,8 +1,10 @@
 # Python is just the language for you
 
-As the python.org says, *"If you’re a professional software developer, you may have to work with several C/C++/Java/Go libraries but find the usual write/compile/test/re-compile cycle is too slow.*
+As the [python.org](https://docs.python.org/3/tutorial/appetite.html) says, *"If you’re a professional software developer, you may have to work with several C/C++/Java/Go libraries but find the usual write/compile/test/re-compile cycle is too slow.*
 
 *Python is just the language for you."*.
+
+![PythonForYou](PythonForYou.jpg)
 
 Let's see an easy example, why and how.
 
