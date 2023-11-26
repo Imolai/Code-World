@@ -102,7 +102,7 @@ total = 22
 # Output: 'Correct answers: 86.36%'
 ```
 
-## Type specificly
+## Type specific
 
 In addition to the general `.format()` method, Python provides specialized formatting options for certain data types like dates and times. Let's explore these alongside another example:
 
