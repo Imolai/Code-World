@@ -4,9 +4,9 @@
 
 The charts in the GitHub [Octoverse 2024](https://github.blog/news-insights/octoverse/octoverse-2024/) report clearly show which languages are at the forefront of development trends and which ones will continue to dominate in the future. Three key graphs are used for this analysis:
 
-1. ![Top programming languages on GitHub](https://github.blog/wp-content/uploads/2024/10/GitHub-Octoverse-2024-top-programming-languages.png)
-2. ![Top 10 fastest growing programming languages in 2024](https://github.blog/wp-content/uploads/2024/10/GitHub-Octoverse-2024-fastest-growing-programming-languages.png)
-3. ![Top 5 languages most commonly used in repositories created within the last 12 months](https://github.blog/wp-content/uploads/2024/10/GitHub-Octoverse-2024-most-commonly-used-programming-languages-1.png)
+1. ![Top programming languages on GitHub](https://github.blog/wp-content/uploads/2024/10/GitHub-Octoverse-2024-top-programming-languages.png?w=600)
+2. ![Top 10 fastest growing programming languages in 2024](https://github.blog/wp-content/uploads/2024/10/GitHub-Octoverse-2024-fastest-growing-programming-languages.png?w=600)
+3. ![Top 5 languages most commonly used in repositories created within the last 12 months](https://github.blog/wp-content/uploads/2024/10/GitHub-Octoverse-2024-most-commonly-used-programming-languages-1.png?w=600)
 
 When these data are put together, it is clear that Python, TypeScript, and Go dominate both current and future technological developments. This is especially true for backend development, where these languages are becoming increasingly dominant.
 
