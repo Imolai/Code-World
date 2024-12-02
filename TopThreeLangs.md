@@ -63,6 +63,21 @@ Why not Java, C#, or C++? Let's investigate.
 Whether to engage or become engaged in a newer, more modern, more popular tech stack embodying programming language should not be an either-or decision. It doesn't mean we have to throw away a language or stack that we've invested a lot in, that is our favourite.
 But in IT, we cannot afford to stop lifelong learning, closing ourselves off to new technology. We don't need to know everything, we don't need to master everything from A to Z straight away, we can just understand areas at an overview level and know when and where to go deeper. This little reflection is only intended to indicate one (or rather three :) possible directions for this.
 
+## Further reading
+
+- **[GitHub Octoverse 2024 Full Report](https://github.blog/news-insights/octoverse/octoverse-2024/)**: The original source highlighting trends and growth in programming languages.
+- **[Python Official Website](https://www.python.org/)**: A hub for learning Python and exploring its ecosystem.
+- **[TypeScript Documentation](https://www.typescriptlang.org/)**: Learn about modern JavaScript with added type safety.
+- **[Go Programming Language](https://go.dev/)**: Official site with guides and examples for all levels of developers.
+- **[Rust vs C++: When to Choose Which?](https://blog.rust-lang.org/)**: Comparative article to decide between C++ and Rust.
+- **[Why TypeScript is Becoming the Modern Standard](https://www.smashingmagazine.com/)**: In-depth analysis on why TypeScript is preferred by many development teams.
+- **[The Rise of Microservices Architecture](https://martinfowler.com/articles/microservices.html)**: Martin Fowler’s classic explanation of microservices basics.
+- **[Kubernetes Official Documentation](https://kubernetes.io/docs/)**: Learn how Go powers modern cloud technologies.
+- **[The Top Programming Languages 2024](https://spectrum.ieee.org/top-programming-languages-2024)**: The Intersection of AI, Technology, and Sustainability: A Look at the Current State of the Industry.
+- **[Top 10 programming languages in 2025](https://www.pluralsight.com/resources/blog/upskilling/top-programming-languages-2025)**: 2025 Programming Language Trends: Python Dominates, Java and JavaScript Remain Strong.
+- **[The Most Popular Programming Languages of 2024](https://www.hackerrank.com/blog/most-popular-languages-2024/)**: The Most Popular Programming Languages of 2024: A Comprehensive Study.
+- **[Top Programming Languages to Land a Job in 2025](https://www.analyticsinsight.net/programming/top-programming-languages-to-land-a-job-in-2025)**: Top Tech News: Bitcoin Surges, Apple Deals, and AI Advancements.
+
 #Python #TypeScript #GoLang #ProgrammingLanguages #BackendDevelopment
 #WebDevelopment #Microservices #AIProgramming #TechTrends #GitHub
 #OpenSource #FullStackDevelopment #DevCommunity #CareerDevelopment
