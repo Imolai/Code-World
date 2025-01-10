@@ -9,3 +9,4 @@ Some articles from interesting topics in the World of Code.
 - [The Power of Python String Formatting](PythonStr.md)
 - [Stepping Up from Bash in DevOps: Python, Perl, Lua, or Go?](DevOpsNextStep.md)
 - [What are the top 3 languages that (will) dominate the present (and the future)](TopThreeLangs.md)
+- [Birth and Rebirth of Programming Languages](BirthOfProgrammingLanguages.md)
