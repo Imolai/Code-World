@@ -36,7 +36,7 @@ The following periods reflect the development of programming languages and the f
 - **Key Languages:** Go, Rust, Kotlin, Swift, TypeScript, Dart, Elixir, Julia.
 - **Focus:** Performance optimization, scalability, and mobile and web development.
 
-### 6. Future-Oriented Era (2020–present)
+### 6. Intelligence Era (2020–present)
 
 - **Features:** Support for machine learning, artificial intelligence, and next-generation applications, along with "hype-driven development."
 - **Key Languages:** No clear dominant new language has yet emerged, but Rust, Python, and JavaScript continue to strengthen their positions.
